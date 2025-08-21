@@ -1,2 +1,2 @@
-# data-outcome
-Data producing outcomes
+# Outcomes
+Producing outcomes
